@@ -56,11 +56,13 @@ span {
   color: #15133c;
 }
 
-.card-button {
+.card-button{
   flex-direction: row;
   width: 100%;
   display: flex;
   justify-content: space-between;
+ 
+
 
 }
 
@@ -68,11 +70,14 @@ span {
   color: #92b4ec;
   font-weight: 400;
   font-size: 1.6rem;
+  text-decoration:none
  /* margin-right: 2rem; */
+
 }
 
 .card-button a:last-child {
   color: red;
+
 }
 
 
